@@ -4,22 +4,10 @@ Welcome to my GitHub profile — I'm thrilled to have you here!
 
 ---
 
-## 🚀 About Me
-
-- 🎓 BE in Computer Engineering | University of Pune | CGPA: 8.70
-- 💻 Tech enthusiast passionate about **Blockchain**, **Data Analytics**, and **DevOps**.
-- 🔧 Experienced with tools like **Azure**, **Grafana**, **Postman**, **Jupyter Notebook**, **MySQL Workbench**, and more.
-- 🌱 Currently exploring **Data Structures and Algorithms (DSA)**, **SQL**, **Python**, and **Business Intelligence** tools like **Power BI** and **Tableau**.
-- 🛠️ Building projects in **blockchain**, **data scraping**, and **automation scripting**.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages:** C++, Java, Python, SQL, HTML, CSS
-- **Technologies:** Blockchain, RPA, Data Analysis, REST APIs
-- **Platforms:** Azure, Linux, MacOS
-- **Tools:** Grafana, JIRA, Microsoft Office Suite, Tableau, Postman
+👋 Hi, I’m Pranavi Dawkare
+👀 I’m passionate about blockchain technology, web3, and emerging tech innovations.
+🌱 I’m currently learning blockchain development and expanding my skills.
+🤝 I’m looking to collaborate on exciting projects related to blockchain, web3, or data-driven solutions.
 
 ---
 
